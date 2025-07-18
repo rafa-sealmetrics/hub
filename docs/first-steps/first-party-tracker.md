@@ -29,27 +29,17 @@ How to Install SealMetrics' First-Party Tracker
 
 Before installing SealMetrics' first-party tracker, there are a few steps you'll need to complete:
 
-The setup screen will display the subdomain you need to create. If you plan to track more than one domain, you'll need to create the same subdomain for each domain.​Add an A record in your DNS Manager with the following value:45.148.1.221.​Notify us at[email protected]once you have completed the two tasks above.​When you receive the green light from[email protected], copy and paste the Tracker Code snippet into the<head>tag of your website.
+1. The setup screen will display the subdomain you need to create. If you plan to track more than one domain, you'll need to create the same subdomain for each domain.
 
-The setup screen will display the subdomain you need to create. If you plan to track more than one domain, you'll need to create the same subdomain for each domain.​
+2. Add an A record in your DNS Manager with the following value: 45.148.1.221.
 
-The setup screen will display the subdomain you need to create. If you plan to track more than one domain, you'll need to create the same subdomain for each domain.​
+3. Notify us at support@sealmetrics.com once you have completed the two tasks above.
 
-Add an A record in your DNS Manager with the following value:45.148.1.221.​
+4. When you receive the green light from support@sealmetrics.com, copy and paste the Tracker Code snippet into the `<head>` tag of your website.
 
-Add an A record in your DNS Manager with the following value:45.148.1.221.​
+And then the magic starts!
 
-Notify us at[email protected]once you have completed the two tasks above.​
-
-Notify us at[email protected]once you have completed the two tasks above.​
-
-When you receive the green light from[email protected], copy and paste the Tracker Code snippet into the<head>tag of your website.
-
-When you receive the green light from[email protected], copy and paste the Tracker Code snippet into the<head>tag of your website.
-
-And then the magic starts!​
-
-If you have any questions, please let us know at[email protected].
+If you have any questions, please let us know at support@sealmetrics.com.
 
 [How to track SPA sites:](https://help.sealmetrics.com/en/articles/9667469-how-to-track-spa-sites)[Setting Up Trackers in Sealmetrics](https://help.sealmetrics.com/en/articles/10054456-setting-up-trackers-in-sealmetrics)[1st Party Tracker](https://help.sealmetrics.com/en/articles/10054564-1st-party-tracker)[SealMetrics Kick off [Video]](https://help.sealmetrics.com/en/articles/10364275-sealmetrics-kick-off-video)[Using Subdomain Differentiation in URL Analytics](https://help.sealmetrics.com/en/articles/10757779-using-subdomain-differentiation-in-url-analytics)[SealMetrics Help Center](/en/)Company
 
