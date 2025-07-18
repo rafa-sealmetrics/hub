@@ -79,7 +79,7 @@ If you encounter persistent issues with the API, contact support through one of 
 
 - Email:[email protected]
 
-[[email protected]](/cdn-cgi/l/email-protection#691a1c1919061b1d291a0c0805040c1d1b000a1a470a0604)[Authentication](https://help.sealmetrics.com/en/articles/11124953-authentication)[Login Endpoint](https://help.sealmetrics.com/en/articles/11124976-login-endpoint)[Account Endpoints](https://help.sealmetrics.com/en/articles/11125188-account-endpoints)[Set-Click Endpoint](https://help.sealmetrics.com/en/articles/11125384-set-click-endpoint)[Implementation Guides](https://help.sealmetrics.com/en/articles/11125557-implementation-guides)[SealMetrics Help Center](/en/)Company
+[[email protected]](/cdn-cgi/l/email-protection#02717772726d7076427167636e6f6776706b61712c616d6f)[Authentication](https://help.sealmetrics.com/en/articles/11124953-authentication)[Login Endpoint](https://help.sealmetrics.com/en/articles/11124976-login-endpoint)[Account Endpoints](https://help.sealmetrics.com/en/articles/11125188-account-endpoints)[Set-Click Endpoint](https://help.sealmetrics.com/en/articles/11125384-set-click-endpoint)[Implementation Guides](https://help.sealmetrics.com/en/articles/11125557-implementation-guides)[SealMetrics Help Center](/en/)Company
 
 Privacy PolicyDPATerms of UseData Privacy Audit
 

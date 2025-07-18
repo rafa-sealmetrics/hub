@@ -1,9 +1,9 @@
 ---
 title: "Why We Can\u2019t Filter Internal Traffic at SealMetrics"
-slug: "why-we-can\u2019t-filter-internal-traffic-at-sealmetrics"
+slug: why-we-cant-filter-internal-traffic-at-sealmetrics
 sidebar_label: "Why We Can\u2019t Filter Internal Traffic at SealMetrics"
 ---
-[Skip to main content](#main-content)![Image](why-we-can’t-filter-internal-traffic-at-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](why-we-cant-filter-internal-traffic-at-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)At SealMetrics, our commitment to user privacy and data protection regulations directly impacts internal traffic management. Below, we would like to explain why filtering internal traffic is only feasible by compromising our privacy principles.
 

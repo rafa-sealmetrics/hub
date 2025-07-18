@@ -93,7 +93,7 @@ curl --location 'https://app.sealmetrics.com/api/auth/login' \
 
 "email": "[email protected]",
 
-[[email protected]](/cdn-cgi/l/email-protection#583c3d3537182b3d3934353d2c2a313b2b763b3735)"password": "demo"
+[[email protected]](/cdn-cgi/l/email-protection#c1a5a4acae81b2a4a0adaca4b5b3a8a2b2efa2aeac)"password": "demo"
 
 }'
 
@@ -121,7 +121,7 @@ payload = json.dumps({
 
 "email": "[email protected]",
 
-[[email protected]](/cdn-cgi/l/email-protection#cfabaaa2a08fbcaaaea3a2aabbbda6acbce1aca0a2)"password": "demo"
+[[email protected]](/cdn-cgi/l/email-protection#9efafbf3f1deedfbfff2f3fbeaecf7fdedb0fdf1f3)"password": "demo"
 
 })
 
@@ -159,7 +159,7 @@ var raw = JSON.stringify({
 
 "email": "[email protected]",
 
-[[email protected]](/cdn-cgi/l/email-protection#6e0a0b03012e1d0b0f02030b1a1c070d1d400d0103)"password": "demo"
+[[email protected]](/cdn-cgi/l/email-protection#d5b1b0b8ba95a6b0b4b9b8b0a1a7bcb6a6fbb6bab8)"password": "demo"
 
 });
 

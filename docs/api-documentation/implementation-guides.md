@@ -259,7 +259,7 @@ Create a `.env` file to store your credentials:
 
 SEAL_METRICS_EMAIL=[email protected]
 
-[[email protected]](/cdn-cgi/l/email-protection#572e38222508323a363e3b17322f363a273b327934383a)SEAL_METRICS_PASSWORD=your_password
+[[email protected]](/cdn-cgi/l/email-protection#b7ced8c2c5e8d2dad6dedbf7d2cfd6dac7dbd299d4d8da)SEAL_METRICS_PASSWORD=your_password
 
 SEAL_METRICS_ACCOUNT_ID=your_account_id
 

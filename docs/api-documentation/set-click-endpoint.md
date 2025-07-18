@@ -137,7 +137,7 @@ curl --location 'https://app.sealmetrics.com/api/auth/v1.0/set-click' \
 
 --data-urlencode 'settings={"email":"[email protected]"}' \
 
-[[email protected]](/cdn-cgi/l/email-protection#0b6f6a7d626f25656a7d6a7979644b6a6f62657f646525686466)--data-urlencode 'referrer="https://facebook.com/"' \
+[[email protected]](/cdn-cgi/l/email-protection#d2b6b3a4bbb6fcbcb3a4b3a0a0bd92b3b6bbbca6bdbcfcb1bdbf)--data-urlencode 'referrer="https://facebook.com/"' \
 
 [https://facebook.com/](https://facebook.com/)--data-urlencode 'current_url="https://sealmetrics.com/"' \
 
@@ -171,7 +171,7 @@ payload = {
 
 'settings': '{"email":"[email protected]"}',
 
-[[email protected]](/cdn-cgi/l/email-protection#f79396819e93d999968196858598b796939e99839899d994989a)'referrer': '"https://facebook.com/"',
+[[email protected]](/cdn-cgi/l/email-protection#7c181d0a151852121d0a1d0e0e133c1d181512081312521f1311)'referrer': '"https://facebook.com/"',
 
 [https://facebook.com/](https://facebook.com/)'current_url': '"https://sealmetrics.com/"'
 
@@ -227,7 +227,7 @@ urlencoded.append("click_time", "1634707888");
 
 urlencoded.append("settings", "{\"email\":\"[email protected]\"}");
 
-[[email protected]](/cdn-cgi/l/email-protection#86e2e7f0efe2a8e8e7f0e7f4f4e9c6e7e2efe8f2e9e8a8e5e9eb)urlencoded.append("referrer", "\"https://facebook.com/\"");
+[[email protected]](/cdn-cgi/l/email-protection#aecacfd8c7ca80c0cfd8cfdcdcc1eecfcac7c0dac1c080cdc1c3)urlencoded.append("referrer", "\"https://facebook.com/\"");
 
 [https://facebook.com/\](https://facebook.com/\)urlencoded.append("current_url", "\"https://sealmetrics.com/\"");
 

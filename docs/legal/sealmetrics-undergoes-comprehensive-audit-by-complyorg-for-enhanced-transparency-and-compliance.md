@@ -1,11 +1,11 @@
 ---
 title: SealMetrics Undergoes Comprehensive Audit by Comply.org for Enhanced Transparency
   and Compliance
-slug: sealmetrics-undergoes-comprehensive-audit-by-comply.org-for-enhanced-transparency-and-compliance
+slug: sealmetrics-undergoes-comprehensive-audit-by-complyorg-for-enhanced-transparency-and-compliance
 sidebar_label: SealMetrics Undergoes Comprehensive Audit by Comply.org for Enhanced
   Transparency and Compliance
 ---
-[Skip to main content](#main-content)![Image](sealmetrics-undergoes-comprehensive-audit-by-comply.org-for-enhanced-transparency-and-compliance/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](sealmetrics-undergoes-comprehensive-audit-by-complyorg-for-enhanced-transparency-and-compliance/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)At SealMetrics, our commitment to transparency and compliance with data protection regulations is unwavering. To uphold these standards and assure our users of our dedication, we have undergone a thorough audit conducted byComply.org. Below, we provide an in-depth look at who Comply.org is and what our audit involves.
 

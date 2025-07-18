@@ -1,17 +1,17 @@
 ---
 title: 'Customer Support at Sealmetrics: Here for You'
-slug: customer-support-at-sealmetrics:-here-for-you
+slug: customer-support-at-sealmetrics-here-for-you
 sidebar_label: 'Customer Support at Sealmetrics: Here for You'
 ---
-[Skip to main content](#main-content)![Image](customer-support-at-sealmetrics:-here-for-you/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](customer-support-at-sealmetrics-here-for-you/a37799c64a3031dd8bee1ad2404decf7.png)
 
-[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](customer-support-at-sealmetrics:-here-for-you/DiseC3B1osintC3ADtulo28729.jpg)
+[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](customer-support-at-sealmetrics-here-for-you/DiseC3B1osintC3ADtulo28729.jpg)
 
 At Sealmetrics, we pride ourselves on providing exceptional customer support. Our dedicated team is ready to assist you with any questions or concerns you may have regarding our cookie-free analytics platform.​
 
 You can easily reach usat[email protected], and we will respond as quickly as possible to ensure you get the help you need.​
 
-[[email protected]](/cdn-cgi/l/email-protection#432b262f2f2c033026222f2e2637312a20306d202c2e)Your satisfaction is our priority, and we are committed to delivering the best possible experience with Sealmetrics.
+[[email protected]](/cdn-cgi/l/email-protection#731b161f1f1c330016121f1e1607011a10005d101c1e)Your satisfaction is our priority, and we are committed to delivering the best possible experience with Sealmetrics.
 
 [SealMetrics Philosophy:](https://help.sealmetrics.com/en/articles/9667390-sealmetrics-philosophy)[Why Does GA4 Measure More Than Sealmetrics?](https://help.sealmetrics.com/en/articles/10006652-why-does-ga4-measure-more-than-sealmetrics)[SealMetrics Kick off [Video]](https://help.sealmetrics.com/en/articles/10364275-sealmetrics-kick-off-video)[What attribution model does Sealmetrics use?](https://help.sealmetrics.com/en/articles/11461584-what-attribution-model-does-sealmetrics-use)[How to Avoid Conversions Being Attributed to “Payment” in Sealmetrics](https://help.sealmetrics.com/en/articles/11464245-how-to-avoid-conversions-being-attributed-to-payment-in-sealmetrics)[SealMetrics Help Center](/en/)Company
 

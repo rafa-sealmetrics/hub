@@ -51,7 +51,7 @@ The login request requires your email and password in JSON format:
 
 "email": "[email protected]",
 
-[[email protected]](/cdn-cgi/l/email-protection#255c4a50577a4048444c4965405d44485549400b464a48)"password": "your_password"
+[[email protected]](/cdn-cgi/l/email-protection#cfb6a0babd90aaa2aea6a38faab7aea2bfa3aae1aca0a2)"password": "your_password"
 
 }
 
@@ -73,7 +73,7 @@ curl --location 'https://app.sealmetrics.com/api/auth/login' \
 
 "email": "[email protected]",
 
-[[email protected]](/cdn-cgi/l/email-protection#a8cccdc5c7e8dbcdc9c4c5cddcdac1cbdb86cbc7c5)"password": "demo"
+[[email protected]](/cdn-cgi/l/email-protection#6d090800022d1e080c010008191f040e1e430e0200)"password": "demo"
 
 }'
 
