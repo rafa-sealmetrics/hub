@@ -50,7 +50,7 @@ const sidebars: SidebarsConfig = {
         'platform/find-sealmetrics-id-account',
         'platform/understanding-the-difference-between-global-tracker-and-superprivacy-tracker',
         'platform/how-to-share-your-affiliate-link',
-        'platform/using-the-sealmetrics-api--basics-reports-and-kpis',
+        'platform/using-the-sealmetrics-api-basics-reports-and-kpis',
         'platform/bypass-pos-or-referrer',
         'platform/roles-management',
         'platform/access-restricted-to-authorized-ips',
