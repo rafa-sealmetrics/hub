@@ -3,7 +3,7 @@ title: Cost Calculator
 slug: cost-calculator
 sidebar_label: Cost Calculator
 ---
-[Skip to main content](#main-content)![Image](cost-calculator/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)Cost Calculator by SealMetrics:
 

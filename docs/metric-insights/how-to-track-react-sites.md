@@ -3,7 +3,7 @@ title: 'How to track REACT sites:'
 slug: how-to-track-react-sites
 sidebar_label: 'How to track REACT sites:'
 ---
-[Skip to main content](#main-content)![Image](how-to-track-react-sites/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)Add SEAL’s tracking pixel to all your website pages.
 

@@ -3,7 +3,7 @@ title: Update billing info
 slug: update-billing-info
 sidebar_label: Update billing info
 ---
-[Skip to main content](#main-content)![Image](update-billing-info/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)If you need to change your billing info, please follow these easy steps:
 
@@ -17,7 +17,7 @@ Go to Billing:​
 
 Go to Billing:​
 
-![Image](update-billing-info/update-billing-info-1024x943.png)
+![Image](/img/update-billing-info-1024x943.png)
 
 
 
@@ -41,7 +41,7 @@ Go to Billing:​​
 
 Go to Billing:​​
 
-![Image](update-billing-info/update-credit-card-1024x943.png)
+![Image](/img/update-credit-card-1024x943.png)
 
 
 
@@ -61,7 +61,7 @@ Scroll down:​
 
 Scroll down:​
 
-![Image](update-billing-info/download-invoices-1024x943.png)
+![Image](/img/download-invoices-1024x943.png)
 
 
 

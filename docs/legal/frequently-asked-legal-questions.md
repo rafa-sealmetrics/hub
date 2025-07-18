@@ -3,7 +3,7 @@ title: 'Frequently Asked Legal Questions:'
 slug: frequently-asked-legal-questions
 sidebar_label: 'Frequently Asked Legal Questions:'
 ---
-[Skip to main content](#main-content)![Image](frequently-asked-legal-questions/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)Where are servers and company located?
 
@@ -17,7 +17,7 @@ To ensure compliance with stringent data protection regulations and uphold our c
 
 
 
-![Image](frequently-asked-legal-questions/Screenshot2024-05-17at18_26_36.png)
+![Image](/img/Screenshot2024-05-17at18_26_36.png)
 
 
 

@@ -3,7 +3,7 @@ title: Using Subdomain Differentiation in URL Analytics
 slug: using-subdomain-differentiation-in-url-analytics
 sidebar_label: Using Subdomain Differentiation in URL Analytics
 ---
-[Skip to main content](#main-content)![Image](using-subdomain-differentiation-in-url-analytics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)This guide explains how to use Sealmetrics' subdomain differentiation feature to gain insights into cross-subdomain user journeys.
 
@@ -29,7 +29,7 @@ app.yourwebsite.com (application subdomain)
 
 Where to Find Subdomain Analytics
 
-![Image](using-subdomain-differentiation-in-url-analytics/Seal-Metrics-03-12-2025_11_52_AM.png)
+![Image](/img/Seal-Metrics-03-12-2025_11_52_AM.png)
 
 
 

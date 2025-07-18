@@ -3,7 +3,7 @@ title: Can I exclude internal IPs?
 slug: can-i-exclude-internal-ips
 sidebar_label: Can I exclude internal IPs?
 ---
-[Skip to main content](#main-content)![Image](can-i-exclude-internal-ips/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)Due to strict data protection regulations and our unwavering commitment to safeguarding personal data, we are sorry to inform you thatwe cannot process IP addresses, as they are classified as personal dataunder these regulations.
 

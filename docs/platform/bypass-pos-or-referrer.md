@@ -3,7 +3,7 @@ title: Bypass POS or Referrer
 slug: bypass-pos-or-referrer
 sidebar_label: Bypass POS or Referrer
 ---
-[Skip to main content](#main-content)![Image](bypass-pos-or-referrer/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Bypass Referrer or Bypass POSmeans that when a user performs an action, such as completing a payment through a POS (Point of Sale terminal), they temporarily leave the website to process the transaction. Upon returning to the site, the system identifies them as "referrer" traffic and shows the payment gateway's URL as the referral source. This can cause attribution issues, as the conversion is assigned to the "referrer" instead of the original channel.
 
@@ -17,13 +17,13 @@ If you want to ignore referrers follow these easy steps:
 
 
 
-![Image](bypass-pos-or-referrer/Seal-Metrics-04-25-2025_04_15_PM.png)
+![Image](/img/Seal-Metrics-04-25-2025_04_15_PM.png)
 
 
 
 
 
-![Image](bypass-pos-or-referrer/Seal-Metrics-04-25-2025_04_16_PM.png)
+![Image](/img/Seal-Metrics-04-25-2025_04_16_PM.png)
 
 
 

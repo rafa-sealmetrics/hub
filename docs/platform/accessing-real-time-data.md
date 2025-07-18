@@ -3,7 +3,7 @@ title: Accessing Real-time data
 slug: accessing-real-time-data
 sidebar_label: Accessing Real-time data
 ---
-[Skip to main content](#main-content)![Image](accessing-real-time-data/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Default Data View
 
@@ -17,7 +17,7 @@ To access today's data in real-time, you need to:
 
 
 
-![Image](accessing-real-time-data/Seal-Metrics-04-03-2025_04_04_PM.png)
+![Image](/img/Seal-Metrics-04-03-2025_04_04_PM.png)
 
 
 

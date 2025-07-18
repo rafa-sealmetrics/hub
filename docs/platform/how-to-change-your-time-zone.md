@@ -3,7 +3,7 @@ title: How to change your time zone
 slug: how-to-change-your-time-zone
 sidebar_label: How to change your time zone
 ---
-[Skip to main content](#main-content)![Image](how-to-change-your-time-zone/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Go to your"Accounts":​Edit the account that you want to change the Timezone.​Select your Timezone:
 
@@ -13,7 +13,7 @@ Go to your"Accounts":​
 
 
 
-![Image](how-to-change-your-time-zone/change-time-zone.png)
+![Image](/img/change-time-zone.png)
 
 
 
@@ -23,7 +23,7 @@ Edit the account that you want to change the Timezone.​
 
 
 
-![Image](how-to-change-your-time-zone/sealmetrics-account-edit.png)
+![Image](/img/sealmetrics-account-edit.png)
 
 
 
@@ -33,7 +33,7 @@ Select your Timezone:
 
 
 
-![Image](how-to-change-your-time-zone/sealmetrics-account-setting-timezone.png)
+![Image](/img/sealmetrics-account-setting-timezone.png)
 
 
 

@@ -3,9 +3,9 @@ title: 'Customer Support at Sealmetrics: Here for You'
 slug: customer-support-at-sealmetrics-here-for-you
 sidebar_label: 'Customer Support at Sealmetrics: Here for You'
 ---
-[Skip to main content](#main-content)![Image](customer-support-at-sealmetrics-here-for-you/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
-[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](customer-support-at-sealmetrics-here-for-you/DiseC3B1osintC3ADtulo28729.jpg)
+[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](/img/DiseC3B1osintC3ADtulo28729.jpg)
 
 At Sealmetrics, we pride ourselves on providing exceptional customer support. Our dedicated team is ready to assist you with any questions or concerns you may have regarding our cookie-free analytics platform.​
 

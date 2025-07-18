@@ -4,7 +4,7 @@ slug: understanding-the-difference-between-global-tracker-and-superprivacy-track
 sidebar_label: Understanding the Difference between Global Tracker and SuperPrivacy
   Tracker
 ---
-[Skip to main content](#main-content)![Image](understanding-the-difference-between-global-tracker-and-superprivacy-tracker/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)In Sealmetrics, we offer two unique tracking options designed to prioritize user privacy while providing actionable insights:GlobalTrackerandSuperPrivacyTracker. Both serve distinct purposes, catering to different tracking needs based on the level of anonymity and performance required.
 

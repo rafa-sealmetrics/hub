@@ -3,7 +3,7 @@ title: How to add VAT number in my invoices
 slug: how-to-add-vat-number-in-my-invoices
 sidebar_label: How to add VAT number in my invoices
 ---
-[Skip to main content](#main-content)![Image](how-to-add-vat-number-in-my-invoices/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)When you created your SealMetrics account, you probably forgot to add your VAT number. If this is your situation, follow these easy steps:
 
@@ -21,7 +21,7 @@ Click on your profile:
 
 
 
-![Image](how-to-add-vat-number-in-my-invoices/billing1.png)
+![Image](/img/billing1.png)
 
 
 

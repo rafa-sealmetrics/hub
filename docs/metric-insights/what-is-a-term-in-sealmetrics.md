@@ -3,7 +3,7 @@ title: What is a TERM in SealMetrics?
 slug: what-is-a-term-in-sealmetrics
 sidebar_label: What is a TERM in SealMetrics?
 ---
-[Skip to main content](#main-content)![Image](what-is-a-term-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)In SealMetrics,TERMrepresents thesmallest unit of measurementfor any traffic source. It helps us precisely attribute where users come from. Here’s how we define TERM across different sources:
 

@@ -3,7 +3,7 @@ title: Why Does GA4 Measure More Than Sealmetrics?
 slug: why-does-ga4-measure-more-than-sealmetrics
 sidebar_label: Why Does GA4 Measure More Than Sealmetrics?
 ---
-[Skip to main content](#main-content)![Image](why-does-ga4-measure-more-than-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)If GA4 shows more data than Sealmetrics, it's likely due to implementation issues. In other words, GA4 could be tracking without consent, or the Sealmetrics pixel may be blocked by Google Tag Manager (GTM) or the cookie banner. Below are the steps to investigate this issue.
 

@@ -3,7 +3,7 @@ title: Access Restricted to Authorized IPs
 slug: access-restricted-to-authorized-ips
 sidebar_label: Access Restricted to Authorized IPs
 ---
-[Skip to main content](#main-content)![Image](access-restricted-to-authorized-ips/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)AtSealmetrics, we offer an advanced feature to enhance account security:IP Restriction for Access.
 
@@ -37,7 +37,7 @@ This functionality is available forGROWTHaccounts and above.
 
 
 
-![Image](access-restricted-to-authorized-ips/image.png)
+![Image](/img/image.png)
 
 
 

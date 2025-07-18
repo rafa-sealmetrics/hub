@@ -3,7 +3,7 @@ title: Bot Traffic Filtering in Sealmetrics
 slug: bot-traffic-filtering-in-sealmetrics
 sidebar_label: Bot Traffic Filtering in Sealmetrics
 ---
-[Skip to main content](#main-content)![Image](bot-traffic-filtering-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)At Sealmetrics, we employ sophisticated bot detection and filtering mechanisms while maintaining full compliance with privacy regulations.
 

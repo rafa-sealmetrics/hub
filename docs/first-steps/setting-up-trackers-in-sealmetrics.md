@@ -3,13 +3,13 @@ title: Setting Up Trackers in Sealmetrics
 slug: setting-up-trackers-in-sealmetrics
 sidebar_label: Setting Up Trackers in Sealmetrics
 ---
-[Skip to main content](#main-content)![Image](setting-up-trackers-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[First Steps](https://help.sealmetrics.com/en/collections/10013519-first-steps)To ensure accurate data collection with Sealmetrics, you can easily set up different types of trackers for your site. Please follow these steps to set up the right tracker for your needs.
 
 
 
-![Image](setting-up-trackers-in-sealmetrics/Seal-Metrics-10-28-2024_05_37_PM.png)
+![Image](/img/Seal-Metrics-10-28-2024_05_37_PM.png)
 
 
 
@@ -81,13 +81,13 @@ Add the pageview pixel to all the pages on your website.
 
 
 
-![Image](setting-up-trackers-in-sealmetrics/Seal-Metrics-10-28-2024_05_40_PM.png)
+![Image](/img/Seal-Metrics-10-28-2024_05_40_PM.png)
 
 
 
 Step 6: Set up Conversion Pixel
 
-![Image](setting-up-trackers-in-sealmetrics/Seal-Metrics-10-28-2024_05_43_PM.png)
+![Image](/img/Seal-Metrics-10-28-2024_05_43_PM.png)
 
 
 
@@ -119,7 +119,7 @@ Ignore page view?
 
 
 
-![Image](setting-up-trackers-in-sealmetrics/Seal-Metrics-03-04-2025_02_36_PM.png)
+![Image](/img/Seal-Metrics-03-04-2025_02_36_PM.png)
 
 
 
@@ -175,7 +175,7 @@ As you can see in the image, the pixel is triggered in "All Pages" (#1) except w
 
 
 
-![Image](setting-up-trackers-in-sealmetrics/Google-Tag-Manager-10-28-2024_05_54_PM.png)
+![Image](/img/Google-Tag-Manager-10-28-2024_05_54_PM.png)
 
 
 
@@ -185,7 +185,7 @@ Follow these steps, and you'll be able to create your custom sales funnel.
 
 
 
-![Image](setting-up-trackers-in-sealmetrics/Seal-Metrics-10-28-2024_05_55_PM.png)
+![Image](/img/Seal-Metrics-10-28-2024_05_55_PM.png)
 
 
 

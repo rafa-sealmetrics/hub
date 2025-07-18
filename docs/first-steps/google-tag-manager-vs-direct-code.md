@@ -3,7 +3,7 @@ title: Google Tag Manager vs Direct Code
 slug: google-tag-manager-vs-direct-code
 sidebar_label: Google Tag Manager vs Direct Code
 ---
-[Skip to main content](#main-content)![Image](google-tag-manager-vs-direct-code/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[First Steps](https://help.sealmetrics.com/en/collections/10013519-first-steps)When you start measuring with SealMetrics, the first step is inserting our pixel into your website. This allows you to begin collecting 100% cookieless data. However, one of the most common questions we receive is: Which method is better,adding the pixel directly into the website's code or using Google Tag Manager (GTM)?
 

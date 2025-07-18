@@ -4,7 +4,7 @@ slug: why-do-i-see-more-conversions-or-revenue-in-sealmetrics-than-in-my-erp
 sidebar_label: Why do I see more conversions or revenue in Sealmetrics than in my
   ERP?
 ---
-[Skip to main content](#main-content)![Image](why-do-i-see-more-conversions-or-revenue-in-sealmetrics-than-in-my-erp/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)This is a common and understandable question.
 

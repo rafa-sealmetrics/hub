@@ -3,7 +3,7 @@ title: Public Access to Server Statistics
 slug: public-access-to-server-statistics
 sidebar_label: Public Access to Server Statistics
 ---
-[Skip to main content](#main-content)![Image](public-access-to-server-statistics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)To reinforce our commitment to trust and openness, we offerpublic access to our server statistics, allowing users to check the uptime status of our services at any time.
 
@@ -11,7 +11,7 @@ sidebar_label: Public Access to Server Statistics
 
 
 
-![Image](public-access-to-server-statistics/Screenshot2024-11-11at17_30_23.png)
+![Image](/img/Screenshot2024-11-11at17_30_23.png)
 
 
 

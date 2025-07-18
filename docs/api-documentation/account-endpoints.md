@@ -3,7 +3,7 @@ title: Account Endpoints
 slug: account-endpoints
 sidebar_label: Account Endpoints
 ---
-[Skip to main content](#main-content)![Image](account-endpoints/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -41,7 +41,7 @@ Required
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Yes
 
@@ -109,17 +109,7 @@ url = "https://app.sealmetrics.com/api/auth/accounts"
 
 [https://app.sealmetrics.com/api/auth/accounts](https://app.sealmetrics.com/api/auth/accounts)
 
-headers = {
-
-"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI:ImpoaS1Nzg5MzQzIn0...",
-
-"Accept": "application/json",
-
-"Connection": "keep-alive",
-
-"Accept-Encoding": "gzip, deflate, br"
-
-}
+headers = 
 
 
 
@@ -151,15 +141,7 @@ myHeaders.append("Accept-Encoding", "gzip, deflate, br");
 
 
 
-var requestOptions = {
-
-method: 'GET',
-
-headers: myHeaders,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -185,15 +167,7 @@ Success Response (200 OK)
 
 ```json
 
-{
 
-"status": "ok",
-
-"data": {
-
-"000000000000000000001234": "Demo Account"
-
-}
 
 }
 
@@ -219,13 +193,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Unauthenticated"
-
-}
 
 ```
 

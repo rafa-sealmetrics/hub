@@ -3,7 +3,7 @@ title: How to Measure Conversions and Micro-Conversions
 slug: how-to-measure-conversions-and-micro-conversions
 sidebar_label: How to Measure Conversions and Micro-Conversions
 ---
-[Skip to main content](#main-content)![Image](how-to-measure-conversions-and-micro-conversions/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[First Steps](https://help.sealmetrics.com/en/collections/10013519-first-steps)With the new SealMetrics pixel, you have complete control over measuring conversions and micro-conversions, ensuring accurate data collection while preventing unnecessary duplication of page view events. Every conversion or micro-conversion event must be linked to a pageview, but you can configure whether that pageview is triggered automatically or managed externally.
 
@@ -91,7 +91,7 @@ Every conversion or micro-conversion needs to be associated with a pageview. If 
 
 Where to find Event pixels:
 
-![Image](how-to-measure-conversions-and-micro-conversions/Seal-Metrics-11-28-2024_06_39_AM.png)
+![Image](/img/Seal-Metrics-11-28-2024_06_39_AM.png)
 
 
 

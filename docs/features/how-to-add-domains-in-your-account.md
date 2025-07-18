@@ -3,7 +3,7 @@ title: How to add domains in your account
 slug: how-to-add-domains-in-your-account
 sidebar_label: How to add domains in your account
 ---
-[Skip to main content](#main-content)![Image](how-to-add-domains-in-your-account/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)SealMetrics defines an entrance as a click that meets one of two conditions: an empty referrer or a referrer from a domain different from your own. For instance, if a hit has no referrer, SEAL interprets it as Direct traffic. If the referrer is from a different domain, like google.com or facebook.com, SEAL classifies the hit as a visitor.​
 
@@ -15,7 +15,7 @@ Click on the "Monitor" icon:​
 
 Click on the "Monitor" icon:​
 
-![Image](how-to-add-domains-in-your-account/sealmetrics-sections-2.png)
+![Image](/img/sealmetrics-sections-2.png)
 
 
 
@@ -25,7 +25,7 @@ Go to Accounts and add an account:​
 
 Go to Accounts and add an account:​
 
-![Image](how-to-add-domains-in-your-account/sealmetrics-add-new-account-2.png)
+![Image](/img/sealmetrics-add-new-account-2.png)
 
 
 
@@ -35,7 +35,7 @@ Ad a Name and a Domain:​
 
 Ad a Name and a Domain:​
 
-![Image](how-to-add-domains-in-your-account/sealmetrics-account-name-2.png)
+![Image](/img/sealmetrics-account-name-2.png)
 
 
 
@@ -45,7 +45,7 @@ Select Time Zone:​
 
 Select Time Zone:​
 
-![Image](how-to-add-domains-in-your-account/sealmetrics-setup-timezone.png)
+![Image](/img/sealmetrics-setup-timezone.png)
 
 
 
@@ -55,7 +55,7 @@ Select the taxonomy of your campaign tracking parameters:
 
 Select the taxonomy of your campaign tracking parameters:
 
-![Image](how-to-add-domains-in-your-account/sealmetrics-utm-setup-2.png)
+![Image](/img/sealmetrics-utm-setup-2.png)
 
 
 

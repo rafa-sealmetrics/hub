@@ -3,7 +3,7 @@ title: Billing Screen information
 slug: billing-screen-information
 sidebar_label: Billing Screen information
 ---
-[Skip to main content](#main-content)![Image](billing-screen-information/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)To see your billing screen information you can go to yourProfile > Billing:
 
@@ -13,7 +13,7 @@ To see your billing screen information you can go to yourProfile > Billing:
 
 
 
-![Image](billing-screen-information/account.png)
+![Image](/img/account.png)
 
 
 
@@ -23,7 +23,7 @@ In this section you are able to check the following information:​
 
 In this section you are able to check the following information:​
 
-![Image](billing-screen-information/SEAL-Metrics-Billing-1024x943.png)
+![Image](/img/SEAL-Metrics-Billing-1024x943.png)
 
 
 

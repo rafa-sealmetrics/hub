@@ -3,7 +3,7 @@ title: "Using the SealMetrics API \u2013 Basics, Reports, and KPIs"
 slug: using-the-sealmetrics-api-basics-reports-and-kpis
 sidebar_label: "Using the SealMetrics API \u2013 Basics, Reports, and KPIs"
 ---
-[Skip to main content](#main-content)![Image](using-the-sealmetrics-api-basics-reports-and-kpis/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Overview of the SealMetrics API
 

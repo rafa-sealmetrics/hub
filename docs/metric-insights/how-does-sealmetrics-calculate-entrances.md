@@ -3,11 +3,11 @@ title: How does SealMetrics Calculate Entrances?
 slug: how-does-sealmetrics-calculate-entrances
 sidebar_label: How does SealMetrics Calculate Entrances?
 ---
-[Skip to main content](#main-content)![Image](how-does-sealmetrics-calculate-entrances/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)What is an "Entrance"?
 
-![Image](how-does-sealmetrics-calculate-entrances/DiseC3B1osintC3ADtulo28229.jpg)
+![Image](/img/DiseC3B1osintC3ADtulo28229.jpg)
 
 An "Entrance" in Sealmetrics represents an entry to your website. Each time a user accesses your site, a new Entrance is recorded. Unlike other analytics systems that may group sessions based on certain criteria, Sealmetrics counts each access independently.
 

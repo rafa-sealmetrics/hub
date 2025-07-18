@@ -3,7 +3,7 @@ title: Enhance Your Sealmetrics with IP Access Control
 slug: enhance-your-sealmetrics-with-ip-access-control
 sidebar_label: Enhance Your Sealmetrics with IP Access Control
 ---
-[Skip to main content](#main-content)![Image](enhance-your-sealmetrics-with-ip-access-control/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)Welcome to an even more secure Sealmetrics experience! We're excited to introduce IP-based access control, giving you complete control over who can access your analytics dashboard.
 
@@ -19,7 +19,7 @@ Setting Up IP Access Control
 
 
 
-![Image](enhance-your-sealmetrics-with-ip-access-control/Seal-Metrics-02-13-2025_04_03_PM.png)
+![Image](/img/Seal-Metrics-02-13-2025_04_03_PM.png)
 
 
 

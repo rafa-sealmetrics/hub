@@ -3,7 +3,7 @@ title: Dashboard
 slug: dashboard
 sidebar_label: Dashboard
 ---
-[Skip to main content](#main-content)![Image](dashboard/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)SealMetrics Dashboard at a Glance
 

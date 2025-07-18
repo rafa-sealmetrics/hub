@@ -3,7 +3,7 @@ title: How to track Social Ads Campaigns
 slug: how-to-track-social-ads-campaigns
 sidebar_label: How to track Social Ads Campaigns
 ---
-[Skip to main content](#main-content)![Image](how-to-track-social-ads-campaigns/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)Sealmetrics uses multiple methods to accurately track and attribute traffic coming from Meta Ads (Facebook and Instagram advertisements).
 

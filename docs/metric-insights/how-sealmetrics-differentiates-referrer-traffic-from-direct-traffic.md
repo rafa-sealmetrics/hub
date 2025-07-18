@@ -3,7 +3,7 @@ title: How SealMetrics Differentiates Referrer Traffic from Direct Traffic
 slug: how-sealmetrics-differentiates-referrer-traffic-from-direct-traffic
 sidebar_label: How SealMetrics Differentiates Referrer Traffic from Direct Traffic
 ---
-[Skip to main content](#main-content)![Image](how-sealmetrics-differentiates-referrer-traffic-from-direct-traffic/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)Understanding the difference betweenReferrerandDirecttraffic in SealMetrics is simple:
 

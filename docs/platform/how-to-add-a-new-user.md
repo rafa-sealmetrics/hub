@@ -3,7 +3,7 @@ title: How to add a new user
 slug: how-to-add-a-new-user
 sidebar_label: How to add a new user
 ---
-[Skip to main content](#main-content)![Image](how-to-add-a-new-user/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)If you need to grant access to a new member of your team or if you are a digital agency and you need to give access to one of your customers to his/her Seal Metrics analytics, follow these easy steps:​
 
@@ -11,7 +11,7 @@ sidebar_label: How to add a new user
 
 
 
-![Image](how-to-add-a-new-user/Screenshot-2022-10-26-at-11_27_23-1.png)
+![Image](/img/Screenshot-2022-10-26-at-11_27_23-1.png)
 
 
 
@@ -19,7 +19,7 @@ sidebar_label: How to add a new user
 
 2. Click on"Add User":​
 
-![Image](how-to-add-a-new-user/sealmetrics-add-new-user.png)
+![Image](/img/sealmetrics-add-new-user.png)
 
 
 
@@ -27,7 +27,7 @@ sidebar_label: How to add a new user
 
 
 
-![Image](how-to-add-a-new-user/user-account.png)
+![Image](/img/user-account.png)
 
 
 

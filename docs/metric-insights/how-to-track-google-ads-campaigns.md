@@ -3,41 +3,41 @@ title: 'How to track Google Ads Campaigns:'
 slug: how-to-track-google-ads-campaigns
 sidebar_label: 'How to track Google Ads Campaigns:'
 ---
-[Skip to main content](#main-content)![Image](how-to-track-google-ads-campaigns/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)SealMetrics reads the utms located in your URLs.​
 
 By incorporating these URL tracking templates into your Google Ads campaigns, SEAL can track campaigns, terms/keywords, placements, or product IDs from Google Ads.​
 
-Google Search & Display (GDN):{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={ifsearch:{keyword}\{matchtype}}{ifcontent:{placement}}​Google Shopping:{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={_term}​And add this custom parameter:{_term} = Gshopping-{product_partition_id}​DSA Campaigns:{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={targetid}​Only Display Campaigns:{lpurl}?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={placement}
+Google Search & Display (GDN):?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=\}}​Google Shopping:?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​And add this custom parameter: = Gshopping-​DSA Campaigns:?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​Only Display Campaigns:?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=
 
-Google Search & Display (GDN):{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={ifsearch:{keyword}\{matchtype}}{ifcontent:{placement}}​
+Google Search & Display (GDN):?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=\}}​
 
 Google Search & Display (GDN):
 
-{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={ifsearch:{keyword}\{matchtype}}{ifcontent:{placement}}​
+?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=\}}​
 
-Google Shopping:{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={_term}​And add this custom parameter:{_term} = Gshopping-{product_partition_id}​
+Google Shopping:?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​And add this custom parameter: = Gshopping-​
 
 Google Shopping:
 
-{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={_term}​
+?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​
 
 And add this custom parameter:
 
-{_term} = Gshopping-{product_partition_id}​
+ = Gshopping-​
 
-DSA Campaigns:{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={targetid}​
+DSA Campaigns:?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​
 
 DSA Campaigns:
 
-{lpurl}?utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={targetid}​
+?utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=​
 
-Only Display Campaigns:{lpurl}?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={placement}
+Only Display Campaigns:?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=
 
 Only Display Campaigns:
 
-{lpurl}?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign={Campaignid}&utm_term={placement}
+?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=
 
 You can add this code directly under the account level following these Google ads instructions:​
 
@@ -47,7 +47,7 @@ https://support.google.com/google-ads/answer/6305348?hl=en​
 
 
 
-![Image](how-to-track-google-ads-campaigns/Account-settings-SEAL-Metrics-Google-Ads.png)
+![Image](/img/Account-settings-SEAL-Metrics-Google-Ads.png)
 
 
 
@@ -65,7 +65,7 @@ You can follow these easy steps in your Google Ads Account.
 
 
 
-![Image](how-to-track-google-ads-campaigns/Uploads-SealMetrics-DM-Google-Ads-10-29-2024_12_07_PM.png)
+![Image](/img/Uploads-SealMetrics-DM-Google-Ads-10-29-2024_12_07_PM.png)
 
 
 

@@ -5,7 +5,7 @@ slug: the-2-clear-steps-we-always-follow-at-sealmetrics-before-developing-a-repo
 sidebar_label: 'The 2 clear steps we always follow at Sealmetrics before developing
   a report, KPI, or feature:'
 ---
-[Skip to main content](#main-content)![Image](the-2-clear-steps-we-always-follow-at-sealmetrics-before-developing-a-report-kpi-or-feature/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)Sealmetrics is aprivacy-by-designtool, meaning every development and feature undergoes rigorous privacy analysis.
 

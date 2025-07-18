@@ -3,9 +3,9 @@ title: What is Rejoined Traffic
 slug: what-is-rejoined-traffic
 sidebar_label: What is Rejoined Traffic
 ---
-[Skip to main content](#main-content)![Image](what-is-rejoined-traffic/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
-[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)![Image](what-is-rejoined-traffic/Seal-Metrics-11-13-2024_04_03_PM.png)
+[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)![Image](/img/Seal-Metrics-11-13-2024_04_03_PM.png)
 
 
 

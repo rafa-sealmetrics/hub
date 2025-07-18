@@ -3,7 +3,7 @@ title: Microconversions Endpoint
 slug: microconversions-endpoint
 sidebar_label: Microconversions Endpoint
 ---
-[Skip to main content](#main-content)![Image](microconversions-endpoint/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -35,7 +35,7 @@ Required
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Yes
 
@@ -149,31 +149,11 @@ url = "https://app.sealmetrics.com/api/report/microconversions"
 
 [https://app.sealmetrics.com/api/report/microconversions](https://app.sealmetrics.com/api/report/microconversions)
 
-querystring = {
-
-"account_id": "000000000000000000001234",
-
-"date_range": "this_month",
-
-"skip": "0",
-
-"limit": "100"
-
-}
+querystring = 
 
 
 
-headers = {
-
-"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI:ImpoaS1Nzg5MzQzIn0...",
-
-"Accept": "application/json",
-
-"Connection": "keep-alive",
-
-"Accept-Encoding": "gzip, deflate, br"
-
-}
+headers = 
 
 
 
@@ -205,15 +185,7 @@ myHeaders.append("Accept-Encoding", "gzip, deflate, br");
 
 
 
-var requestOptions = {
-
-method: 'GET',
-
-headers: myHeaders,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -239,51 +211,9 @@ Success Response (200 OK)
 
 ```json
 
-{
+,
 
-"status": "ok",
 
-"data": [
-
-{
-
-"_id": "67eaca8cadeb4e04b13d7df4",
-
-"date": "2025-03-31",
-
-"utm_term": "http://www.bergnaum.info/sit-tempora-ad-omnis-aut-voluptatem-aut",
-
-[http://www.bergnaum.info/sit-tempora-ad-omnis-aut-voluptatem-aut](http://www.bergnaum.info/sit-tempora-ad-omnis-aut-voluptatem-aut)"utm_matchtype": null,
-
-"utm_campaign": "seo-yahoo",
-
-"utm_source": "seo",
-
-"utm_medium": "organic",
-
-"label": "add-to-cart"
-
-},
-
-{
-
-"_id": "67eaca7fba8c162635776cb1",
-
-"date": "2025-03-31",
-
-"utm_term": "https://www.keebler.com/aut-aut-aut-voluptatem-aut-aut-aut-aut",
-
-[https://www.keebler.com/aut-aut-aut-voluptatem-aut-aut-aut-aut](https://www.keebler.com/aut-aut-aut-voluptatem-aut-aut-aut-aut)"utm_matchtype": null,
-
-"utm_campaign": "newsletter",
-
-"utm_source": "newsletter",
-
-"utm_medium": "email",
-
-"label": "newsletter-signup"
-
-}
 
 // Additional results...
 
@@ -363,13 +293,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Unauthenticated"
-
-}
 
 ```
 
@@ -381,13 +305,7 @@ Error Response (400 Bad Request)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Missing required parameter: account_id"
-
-}
 
 ```
 

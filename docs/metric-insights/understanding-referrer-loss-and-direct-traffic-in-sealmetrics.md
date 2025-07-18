@@ -3,7 +3,7 @@ title: Understanding Referrer Loss and Direct Traffic in Sealmetrics
 slug: understanding-referrer-loss-and-direct-traffic-in-sealmetrics
 sidebar_label: Understanding Referrer Loss and Direct Traffic in Sealmetrics
 ---
-[Skip to main content](#main-content)![Image](understanding-referrer-loss-and-direct-traffic-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)Sealmetrics is a privacy-first analytics platform that doesnot use cookies. This means it relies heavily on thereferrerto determine the origin of traffic. However, in many modern websites, the referrer is often lost due to technical reasons — which can lead to a significant portion of traffic being misclassified asDirect.
 
@@ -81,7 +81,7 @@ If a page is loaded inside an iframe or embedded webview, referrer behavior can 
 
 12. Canonical or base tag issues
 
-Improper use of<base>or canonical tags can confuse browsers and lead to referrer anomalies.
+Improper use ofor canonical tags can confuse browsers and lead to referrer anomalies.
 
 Advanced Technical Causes
 
@@ -95,7 +95,7 @@ If a link is triggered automatically (e.g., viasetTimeoutoronLoad), browsers may
 
 15. Meta refresh redirects
 
-Meta tag redirects (<meta http-equiv="refresh">) can also strip the referrer in some cases.
+Meta tag redirects () can also strip the referrer in some cases.
 
 16. CORS restrictions
 

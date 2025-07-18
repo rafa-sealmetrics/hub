@@ -3,7 +3,7 @@ title: Set-Click Endpoint
 slug: set-click-endpoint
 sidebar_label: Set-Click Endpoint
 ---
-[Skip to main content](#main-content)![Image](set-click-endpoint/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -37,7 +37,7 @@ Required
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Yes
 
@@ -131,11 +131,11 @@ curl --location 'https://app.sealmetrics.com/api/auth/v1.0/set-click' \
 
 --header 'Accept: application/json' \
 
---data-urlencode 'url_parameters={"utm_medium":"my-medium-01","utm_source":"my-source-01"}' \
+--data-urlencode 'url_parameters=' \
 
 --data-urlencode 'click_time=1634707888' \
 
---data-urlencode 'settings={"email":"[email protected]"}' \
+--data-urlencode 'settings=' \
 
 [[email protected]](/cdn-cgi/l/email-protection#d2b6b3a4bbb6fcbcb3a4b3a0a0bd92b3b6bbbca6bdbcfcb1bdbf)--data-urlencode 'referrer="https://facebook.com/"' \
 
@@ -161,15 +161,11 @@ url = "https://app.sealmetrics.com/api/auth/v1.0/set-click"
 
 [https://app.sealmetrics.com/api/auth/v1.0/set-click](https://app.sealmetrics.com/api/auth/v1.0/set-click)
 
-payload = {
-
-'account_id': '60a52f6ac660b269d13c3f53',
-
-'url_parameters': '{"utm_medium":"my-medium-01","utm_source":"my-source-01"}',
+payload = ',
 
 'click_time': '1634707888',
 
-'settings': '{"email":"[email protected]"}',
+'settings': '',
 
 [[email protected]](/cdn-cgi/l/email-protection#7c181d0a151852121d0a1d0e0e133c1d181512081312521f1311)'referrer': '"https://facebook.com/"',
 
@@ -179,15 +175,7 @@ payload = {
 
 
 
-headers = {
-
-'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI:ImpoaS1Nzg5MzQzIn0...',
-
-'Content-Type': 'application/x-www-form-urlencoded',
-
-'Accept': 'application/json'
-
-}
+headers = 
 
 
 
@@ -221,11 +209,11 @@ var urlencoded = new URLSearchParams();
 
 urlencoded.append("account_id", "60a52f6ac660b269d13c3f53");
 
-urlencoded.append("url_parameters", "{\"utm_medium\":\"my-medium-01\",\"utm_source\":\"my-source-01\"}");
+urlencoded.append("url_parameters", "");
 
 urlencoded.append("click_time", "1634707888");
 
-urlencoded.append("settings", "{\"email\":\"[email protected]\"}");
+urlencoded.append("settings", "");
 
 [[email protected]](/cdn-cgi/l/email-protection#aecacfd8c7ca80c0cfd8cfdcdcc1eecfcac7c0dac1c080cdc1c3)urlencoded.append("referrer", "\"https://facebook.com/\"");
 
@@ -233,17 +221,7 @@ urlencoded.append("settings", "{\"email\":\"[email protected]\"}");
 
 [https://sealmetrics.com/\](https://sealmetrics.com/\)
 
-var requestOptions = {
-
-method: 'POST',
-
-headers: myHeaders,
-
-body: urlencoded,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -285,13 +263,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Unauthenticated"
-
-}
 
 ```
 
@@ -303,13 +275,7 @@ Error Response (400 Bad Request)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Missing required parameter: account_id"
-
-}
 
 ```
 

@@ -3,7 +3,7 @@ title: How to change UTM parameters
 slug: how-to-change-utm-parameters
 sidebar_label: How to change UTM parameters
 ---
-[Skip to main content](#main-content)![Image](how-to-change-utm-parameters/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)This post is useful for customers who are using custom parameters or Adobe Analytics rather than Google Analytics to track their marketing campaigns.​
 
@@ -15,7 +15,7 @@ Account set up >> UTMs Reference​
 
 Account set up >> UTMs Reference​
 
-![Image](how-to-change-utm-parameters/sealmetrics-account-setup.png)
+![Image](/img/sealmetrics-account-setup.png)
 
 ​
 
@@ -23,7 +23,7 @@ Account set up >> UTMs Reference​
 
 
 
-![Image](how-to-change-utm-parameters/sealmetrics-utms-reference.png)
+![Image](/img/sealmetrics-utms-reference.png)
 
 
 

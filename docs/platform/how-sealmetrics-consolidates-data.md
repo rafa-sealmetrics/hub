@@ -3,7 +3,7 @@ title: How Sealmetrics Consolidates Data
 slug: how-sealmetrics-consolidates-data
 sidebar_label: How Sealmetrics Consolidates Data
 ---
-[Skip to main content](#main-content)![Image](how-sealmetrics-consolidates-data/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Understanding how Sealmetrics processes and consolidates your analytics data is crucial for interpreting your reports and managing expectations during high-traffic periods. This guide explains our data processing system and why you might experience delays during traffic spikes.
 

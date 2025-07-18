@@ -3,7 +3,7 @@ title: How to share your affiliate link
 slug: how-to-share-your-affiliate-link
 sidebar_label: How to share your affiliate link
 ---
-[Skip to main content](#main-content)![Image](how-to-share-your-affiliate-link/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Go to SetupAffiliateAdd the name that you'd like to be added in your affiliate link.CreateShare the link.
 
@@ -27,7 +27,7 @@ Share the link.
 
 Share the link.
 
-![Image](how-to-share-your-affiliate-link/Seal-Metrics-11-04-2024_01_31_PM.png)
+![Image](/img/Seal-Metrics-11-04-2024_01_31_PM.png)
 
 
 
@@ -39,7 +39,7 @@ You'll find the commissions in the Affiliate Control Panel:
 
 
 
-![Image](how-to-share-your-affiliate-link/image-1-1536x818.jpg)
+![Image](/img/image-1-1536x818.jpg)
 
 
 

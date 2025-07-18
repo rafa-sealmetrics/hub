@@ -3,7 +3,7 @@ title: Acquisition Endpoint
 slug: acquisition-endpoint
 sidebar_label: Acquisition Endpoint
 ---
-[Skip to main content](#main-content)![Image](acquisition-endpoint/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -39,7 +39,7 @@ Required
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Yes
 
@@ -163,33 +163,11 @@ url = "https://app.sealmetrics.com/api/report/acquisition"
 
 [https://app.sealmetrics.com/api/report/acquisition](https://app.sealmetrics.com/api/report/acquisition)
 
-querystring = {
-
-"account_id": "000000000000000000001234",
-
-"report_type": "Source",
-
-"date_range": "20230601,20230630",
-
-"skip": "0",
-
-"limit": "100"
-
-}
+querystring = 
 
 
 
-headers = {
-
-"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI:ImpoaS1Nzg5MzQzIn0...",
-
-"Accept": "application/json",
-
-"Connection": "keep-alive",
-
-"Accept-Encoding": "gzip, deflate, br"
-
-}
+headers = 
 
 
 
@@ -221,15 +199,7 @@ myHeaders.append("Accept-Encoding", "gzip, deflate, br");
 
 
 
-var requestOptions = {
-
-method: 'GET',
-
-headers: myHeaders,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -253,57 +223,11 @@ Success Response (200 OK)
 
 ```json
 
-{
+,
 
-"status": "ok",
+,
 
-"data": [
 
-{
-
-"_id": "649e8f2ea67a9261fc3cd003",
-
-"name": "(not set)",
-
-"collection_id": "649e8f2ea67a9261fc3cd003",
-
-"name": "(not set)",
-
-"utm_medium": "(not set)"
-
-},
-
-{
-
-"_id": "Source1",
-
-"clicks": 1623,
-
-"page_views": 10458,
-
-"conversions": 117,
-
-"microconversions": 441,
-
-"revenue": 42466.97
-
-},
-
-{
-
-"_id": "Source2",
-
-"clicks": 2145,
-
-"page_views": 15789,
-
-"conversions": 203,
-
-"microconversions": 587,
-
-"revenue": 67890.45
-
-}
 
 // Additional results...
 
@@ -373,13 +297,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Unauthenticated"
-
-}
 
 ```
 
@@ -391,13 +309,7 @@ Error Response (400 Bad Request)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Missing required parameter: account_id"
-
-}
 
 ```
 

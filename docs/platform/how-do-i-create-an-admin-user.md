@@ -3,7 +3,7 @@ title: How do I create an admin user?
 slug: how-do-i-create-an-admin-user
 sidebar_label: How do I create an admin user?
 ---
-[Skip to main content](#main-content)![Image](how-do-i-create-an-admin-user/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)If you're managing more than 1 Account, probably you'd like to create a second Admin User, who can:
 
@@ -25,7 +25,7 @@ You have to follow these 3 steps:​
 
 
 
-![Image](how-do-i-create-an-admin-user/Seal-Metrics-26-1024x646.png)
+![Image](/img/Seal-Metrics-26-1024x646.png)
 
 
 

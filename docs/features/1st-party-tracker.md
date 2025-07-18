@@ -3,7 +3,7 @@ title: 1st Party Tracker
 slug: 1st-party-tracker
 sidebar_label: 1st Party Tracker
 ---
-[Skip to main content](#main-content)![Image](1st-party-tracker/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)The 1st-party tracker by Sealmetrics is a cookie-free, privacy-first tracking solution designed to ensure accurate measurement without storing anything on the user’s device. Like the previous tracking pixels, this solution also uses a pixel-based approach. However, instead of operating from the standard URL (e.g.,app.sealmetrics.com), the tracker is set to function from a subdomain linked to your website, such asrandom-numbers.yourdomain.com.
 

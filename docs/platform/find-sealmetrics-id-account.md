@@ -3,7 +3,7 @@ title: "Find SealMetrics\u2019 ID Account"
 slug: find-sealmetrics-id-account
 sidebar_label: "Find SealMetrics\u2019 ID Account"
 ---
-[Skip to main content](#main-content)![Image](find-sealmetrics-id-account/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Account Setup > Tags & API Info, You'll find your Account ID in whatever of these sections:
 
@@ -23,7 +23,7 @@ E-commerce plugins
 
 
 
-![Image](find-sealmetrics-id-account/Seal-Metrics-7-1-1024x801.png)
+![Image](/img/Seal-Metrics-7-1-1024x801.png)
 
 
 

@@ -3,9 +3,9 @@ title: "Is SealMetrics GDPR, ePrivacy Regulation, CCPA, PECR,\u2026 compliant?"
 slug: is-sealmetrics-gdpr-eprivacy-regulation-ccpa-pecr-compliant
 sidebar_label: "Is SealMetrics GDPR, ePrivacy Regulation, CCPA, PECR,\u2026 compliant?"
 ---
-[Skip to main content](#main-content)![Image](is-sealmetrics-gdpr-eprivacy-regulation-ccpa-pecr-compliant/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
-[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)![Image](is-sealmetrics-gdpr-eprivacy-regulation-ccpa-pecr-compliant/1.jpg)
+[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)![Image](/img/1.jpg)
 
 ​We are GDPR compliant and ePrivacy Directive compliant:
 

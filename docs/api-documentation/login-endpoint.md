@@ -3,7 +3,7 @@ title: Login Endpoint
 slug: login-endpoint
 sidebar_label: Login Endpoint
 ---
-[Skip to main content](#main-content)![Image](login-endpoint/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -89,13 +89,7 @@ curl --location 'https://app.sealmetrics.com/api/auth/login' \
 
 [https://app.sealmetrics.com/api/auth/login](https://app.sealmetrics.com/api/auth/login)--header 'Content-Type: application/json' \
 
---data-raw '{
-
-"email": "[email protected]",
-
-[[email protected]](/cdn-cgi/l/email-protection#c1a5a4acae81b2a4a0adaca4b5b3a8a2b2efa2aeac)"password": "demo"
-
-}'
+--data-raw ''
 
 ```
 
@@ -117,19 +111,9 @@ url = "https://app.sealmetrics.com/api/auth/login"
 
 [https://app.sealmetrics.com/api/auth/login](https://app.sealmetrics.com/api/auth/login)
 
-payload = json.dumps({
+payload = json.dumps()
 
-"email": "[email protected]",
-
-[[email protected]](/cdn-cgi/l/email-protection#9efafbf3f1deedfbfff2f3fbeaecf7fdedb0fdf1f3)"password": "demo"
-
-})
-
-headers = {
-
-'Content-Type': 'application/json'
-
-}
+headers = 
 
 
 
@@ -155,27 +139,11 @@ myHeaders.append("Content-Type", "application/json");
 
 
 
-var raw = JSON.stringify({
-
-"email": "[email protected]",
-
-[[email protected]](/cdn-cgi/l/email-protection#d5b1b0b8ba95a6b0b4b9b8b0a1a7bcb6a6fbb6bab8)"password": "demo"
-
-});
+var raw = JSON.stringify();
 
 
 
-var requestOptions = {
-
-method: 'POST',
-
-headers: myHeaders,
-
-body: raw,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -201,15 +169,7 @@ Success Response (200 OK)
 
 ```json
 
-{
 
-"access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImpoaS1Nzg5MzQzIn0...",
-
-"token_type": "Bearer",
-
-"expires_at": "2025-07-09T18:14:44.000000Z"
-
-}
 
 ```
 
@@ -251,13 +211,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Invalid credentials"
-
-}
 
 ```
 

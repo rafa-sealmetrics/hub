@@ -3,9 +3,9 @@ title: 'SealMetrics Philosophy:'
 slug: sealmetrics-philosophy
 sidebar_label: 'SealMetrics Philosophy:'
 ---
-[Skip to main content](#main-content)![Image](sealmetrics-philosophy/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
-[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](sealmetrics-philosophy/DiseC3B1osintC3ADtulo28829.jpg)
+[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Company](https://help.sealmetrics.com/en/collections/10760933-company)![Image](/img/DiseC3B1osintC3ADtulo28829.jpg)
 
 Company:
 

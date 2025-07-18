@@ -3,7 +3,7 @@ title: Implementation Guides
 slug: implementation-guides
 sidebar_label: Implementation Guides
 ---
-[Skip to main content](#main-content)![Image](implementation-guides/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Authentication Implementation Guide
 
@@ -71,21 +71,11 @@ return token_data["access_token"]
 
 # If no valid token, request a new one
 
-url = f"{API_BASE_URL}/auth/login"
+url = f"/auth/login"
 
-payload = {
+payload = 
 
-"email": API_EMAIL,
-
-"password": API_PASSWORD
-
-}
-
-headers = {
-
-"Content-Type": "application/json"
-
-}
+headers = 
 
 
 
@@ -105,7 +95,7 @@ return token_data["access_token"]
 
 else:
 
-raise Exception(f"Authentication failed: {response.text}")
+raise Exception(f"Authentication failed: ")
 
 
 
@@ -153,9 +143,7 @@ def get_auth_headers():
 
 token = get_auth_token()
 
-return {
-
-"Authorization": f"Bearer {token}",
+return ",
 
 "Accept": "application/json",
 
@@ -179,7 +167,7 @@ def make_api_request(endpoint, params=None):
 
 headers = get_auth_headers()
 
-url = f"{API_BASE_URL}/{endpoint}"
+url = f"/"
 
 
 
@@ -195,7 +183,7 @@ elif response.status_code == 401:
 
 # Token might be expired, force refresh and try again
 
-headers["Authorization"] = f"Bearer {get_auth_token(force_refresh=True)}"
+headers["Authorization"] = f"Bearer "
 
 response = requests.get(url, headers=headers, params=params)
 
@@ -207,7 +195,7 @@ return response.json()
 
 # If we still have an error
 
-raise Exception(f"API request failed: {response.text}")
+raise Exception(f"API request failed: ")
 
 ```
 
@@ -447,7 +435,7 @@ if retries <= max_retries:
 
 wait_time = retry_delay * (2 ** (retries - 1))
 
-print(f"Retrying in {wait_time} seconds... (Attempt {retries}/{max_retries})")
+print(f"Retrying in  seconds... (Attempt /)")
 
 time.sleep(wait_time)
 
@@ -463,7 +451,7 @@ raise
 
 # If we've exhausted all retries
 
-raise Exception(f"Max retries exceeded. Last error: {last_exception}")
+raise Exception(f"Max retries exceeded. Last error: ")
 
 ```
 

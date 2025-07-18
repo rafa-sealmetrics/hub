@@ -3,7 +3,7 @@ title: How to setup Cost Calculator
 slug: how-to-setup-cost-calculator
 sidebar_label: How to setup Cost Calculator
 ---
-[Skip to main content](#main-content)![Image](how-to-setup-cost-calculator/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)Once SEAL Metrics detects your «Sources» using theutm\_source, then you'll be able to see the list below in your cost section.
 
@@ -17,7 +17,7 @@ Select the on«€»icon​​
 
 Select the on«€»icon​​
 
-![Image](how-to-setup-cost-calculator/cost.png)
+![Image](/img/cost.png)
 
 
 
@@ -41,7 +41,7 @@ Sponsorship (most used): Add the daily cost of this source​
 
 Sponsorship (most used): Add the daily cost of this source​
 
-![Image](how-to-setup-cost-calculator/edit-cost.png)
+![Image](/img/edit-cost.png)
 
 
 
@@ -49,7 +49,7 @@ Cost Calculator from a csv file:
 
 1. You should download SEAL´s cost import template.​
 
-![Image](how-to-setup-cost-calculator/import-bulk-sources-2.png)
+![Image](/img/import-bulk-sources-2.png)
 
 
 
@@ -67,9 +67,9 @@ Below is an example:
 
 
 
-![Image](how-to-setup-cost-calculator/cost-type-sponsorship.png)
+![Image](/img/cost-type-sponsorship.png)
 
-![Image](how-to-setup-cost-calculator/sealmetrics-daily-value.jpeg)
+![Image](/img/sealmetrics-daily-value.jpeg)
 
 ​
 
@@ -77,7 +77,7 @@ Below is an example:
 
 
 
-![Image](how-to-setup-cost-calculator/import-bulk-sources.png)
+![Image](/img/import-bulk-sources.png)
 
 ​
 

@@ -3,13 +3,13 @@ title: How to delete an account
 slug: how-to-delete-an-account
 sidebar_label: How to delete an account
 ---
-[Skip to main content](#main-content)![Image](how-to-delete-an-account/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Follow these easy steps:
 
 
 
-![Image](how-to-delete-an-account/Seal-Metrics-06-10-2025_11_38_AM.png)
+![Image](/img/Seal-Metrics-06-10-2025_11_38_AM.png)
 
 
 

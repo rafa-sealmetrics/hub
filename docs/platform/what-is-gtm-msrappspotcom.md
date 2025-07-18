@@ -3,7 +3,7 @@ title: What is gtm-msr.appspot.com?
 slug: what-is-gtm-msrappspotcom
 sidebar_label: What is gtm-msr.appspot.com?
 ---
-[Skip to main content](#main-content)![Image](what-is-gtm-msrappspotcom/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)gtm-msr.appspot.com is a domain that loads multiple GTMs and sends data to different GA4 accounts, clearly being machine trafficBlock Traffic from gtm-msr.appspot.com on GA4 | BCS. This domain appears when:
 

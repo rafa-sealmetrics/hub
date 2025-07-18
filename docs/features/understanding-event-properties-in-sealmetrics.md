@@ -3,7 +3,7 @@ title: Understanding Event Properties in Sealmetrics
 slug: understanding-event-properties-in-sealmetrics
 sidebar_label: Understanding Event Properties in Sealmetrics
 ---
-[Skip to main content](#main-content)![Image](understanding-event-properties-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Features](https://help.sealmetrics.com/en/collections/10013520-features)What Are Event Properties?
 
@@ -11,7 +11,7 @@ Event properties in Sealmetrics are customizable key-value pairs to attach to an
 
 
 
-![Image](understanding-event-properties-in-sealmetrics/image28629.png)
+![Image](/img/image28629.png)
 
 
 

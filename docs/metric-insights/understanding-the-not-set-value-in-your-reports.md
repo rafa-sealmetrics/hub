@@ -3,7 +3,7 @@ title: Understanding the "(not set)" Value in Your Reports
 slug: understanding-the-not-set-value-in-your-reports
 sidebar_label: Understanding the "(not set)" Value in Your Reports
 ---
-[Skip to main content](#main-content)![Image](understanding-the-not-set-value-in-your-reports/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)This is because you are working with URLs with UTMs. The system places (not set) when it has, for example, in the URL, utm\_source with a value, but the utm\_medium is not part of the URL.​
 

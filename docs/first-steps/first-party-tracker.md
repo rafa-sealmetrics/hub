@@ -3,7 +3,7 @@ title: First Party Tracker
 slug: first-party-tracker
 sidebar_label: First Party Tracker
 ---
-[Skip to main content](#main-content)![Image](first-party-tracker/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[First Steps](https://help.sealmetrics.com/en/collections/10013519-first-steps)Why Install a First-Party Tracker Instead of a Third-Party Tracker?
 
@@ -13,13 +13,13 @@ Log in toapp.sealmetrics.comand go to Settings > First Party Tracker as below:
 
 [app.sealmetrics.com](http://app.sealmetrics.com/)
 
-![Image](first-party-tracker/1st-partytracker-1.png)
+![Image](/img/1st-partytracker-1.png)
 
 
 
 
 
-![Image](first-party-tracker/first-party-tracker-code.png)
+![Image](/img/first-party-tracker-code.png)
 
 
 

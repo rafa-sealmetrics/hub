@@ -3,35 +3,35 @@ title: How to Add a New Account
 slug: how-to-add-a-new-account
 sidebar_label: How to Add a New Account
 ---
-[Skip to main content](#main-content)![Image](how-to-add-a-new-account/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)If you need to add a new account, follow these easy steps:​1.Go to the monitor icon and click on 'Accounts.'
 
 
 
-![Image](how-to-add-a-new-account/Seal-Metrics-9-1024x511.png)
+![Image](/img/Seal-Metrics-9-1024x511.png)
 
 
 
 2. Select'Create New Account.'​
 
-![Image](how-to-add-a-new-account/Seal-Metrics-10-1024x511.png)
+![Image](/img/Seal-Metrics-10-1024x511.png)
 
 3.Fill in all the required information.
 
 
 
-![Image](how-to-add-a-new-account/Seal-Metrics-22-1024x511.png)
+![Image](/img/Seal-Metrics-22-1024x511.png)
 
 4.Set your timezone.
 
 
 
-![Image](how-to-add-a-new-account/Seal-Metrics-23-1024x511.png)
+![Image](/img/Seal-Metrics-23-1024x511.png)
 
 5. Finally, click'Submit.'​
 
-![Image](how-to-add-a-new-account/Seal-Metrics-24-1024x511.png)
+![Image](/img/Seal-Metrics-24-1024x511.png)
 
 
 

@@ -3,7 +3,7 @@ title: Introduction Sealmetrics API
 slug: introduction-sealmetrics-api
 sidebar_label: Introduction Sealmetrics API
 ---
-[Skip to main content](#main-content)![Image](introduction-sealmetrics-api/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Introduction
 
@@ -101,17 +101,7 @@ All API responses are returned in JSON format with a consistent structure:
 
 ```json
 
-{
 
-"status": "ok",
-
-"data": [
-
-// Array of result objects
-
-]
-
-}
 
 ```
 

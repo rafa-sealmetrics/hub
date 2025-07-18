@@ -3,7 +3,7 @@ title: How Sealmetrics Tracks Traffic Without Cookies
 slug: how-sealmetrics-tracks-traffic-without-cookies
 sidebar_label: How Sealmetrics Tracks Traffic Without Cookies
 ---
-[Skip to main content](#main-content)![Image](how-sealmetrics-tracks-traffic-without-cookies/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)Sealmetrics is a privacy-first web analytics tool that doesnot use cookiesor other tracking technologies to identify users. Because of this, understanding where your traffic comes from relies heavily on a key piece of information: thereferrer.
 

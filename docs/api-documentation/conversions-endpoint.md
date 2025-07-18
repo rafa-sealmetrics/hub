@@ -3,7 +3,7 @@ title: Conversions Endpoint
 slug: conversions-endpoint
 sidebar_label: Conversions Endpoint
 ---
-[Skip to main content](#main-content)![Image](conversions-endpoint/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -37,7 +37,7 @@ Required
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Yes
 
@@ -173,31 +173,11 @@ url = "https://app.sealmetrics.com/api/report/conversions"
 
 [https://app.sealmetrics.com/api/report/conversions](https://app.sealmetrics.com/api/report/conversions)
 
-querystring = {
-
-"account_id": "000000000000000000001234",
-
-"date_range": "this_month",
-
-"skip": "0",
-
-"limit": "100"
-
-}
+querystring = 
 
 
 
-headers = {
-
-"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI:ImpoaS1Nzg5MzQzIn0...",
-
-"Accept": "application/json",
-
-"Connection": "keep-alive",
-
-"Accept-Encoding": "gzip, deflate, br"
-
-}
+headers = 
 
 
 
@@ -229,15 +209,7 @@ myHeaders.append("Accept-Encoding", "gzip, deflate, br");
 
 
 
-var requestOptions = {
-
-method: 'GET',
-
-headers: myHeaders,
-
-redirect: 'follow'
-
-};
+var requestOptions = ;
 
 
 
@@ -263,63 +235,9 @@ Success Response (200 OK)
 
 ```json
 
-{
+,
 
-"status": "ok",
 
-"data": [
-
-{
-
-"_id": "67eacf47086ba659fa2dd471",
-
-"amount": 198.09,
-
-"utm_medium": "email",
-
-"utm_source": "newsletter",
-
-"utm_campaign": "newsletter",
-
-"utm_term": "http://www.rath.org/dolorem-dicta-provident-iusto-quis-ipsam",
-
-[http://www.rath.org/dolorem-dicta-provident-iusto-quis-ipsam](http://www.rath.org/dolorem-dicta-provident-iusto-quis-ipsam)"utm_matchtype": null,
-
-"country": "es",
-
-"country_name": "Spain",
-
-"date": "2025-03-31",
-
-"label": "sales"
-
-},
-
-{
-
-"_id": "67eacf4301e86b50b10e87a6",
-
-"amount": 27.24,
-
-"utm_medium": "cpc",
-
-"utm_source": "google",
-
-"utm_campaign": "619999662",
-
-"utm_term": "Gshopping-194682000766",
-
-"utm_matchtype": null,
-
-"country": "es",
-
-"country_name": "Spain",
-
-"date": "2025-03-31",
-
-"label": "sales"
-
-}
 
 // Additional results...
 
@@ -429,13 +347,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Unauthenticated"
-
-}
 
 ```
 
@@ -447,13 +359,7 @@ Error Response (401 Unauthorized)
 
 ```json
 
-{
 
-"status": "error",
-
-"message": "Missing required parameter: account_id"
-
-}
 
 ```
 

@@ -3,7 +3,7 @@ title: Authentication
 slug: authentication
 sidebar_label: Authentication
 ---
-[Skip to main content](#main-content)![Image](authentication/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[API Documentation](https://help.sealmetrics.com/en/collections/12580132-api-documentation)Overview
 
@@ -47,13 +47,7 @@ The login request requires your email and password in JSON format:
 
 ```json
 
-{
 
-"email": "[email protected]",
-
-[[email protected]](/cdn-cgi/l/email-protection#cfb6a0babd90aaa2aea6a38faab7aea2bfa3aae1aca0a2)"password": "your_password"
-
-}
 
 ```
 
@@ -69,13 +63,7 @@ curl --location 'https://app.sealmetrics.com/api/auth/login' \
 
 [https://app.sealmetrics.com/api/auth/login](https://app.sealmetrics.com/api/auth/login)--header 'Content-Type: application/json' \
 
---data-raw '{
-
-"email": "[email protected]",
-
-[[email protected]](/cdn-cgi/l/email-protection#6d090800022d1e080c010008191f040e1e430e0200)"password": "demo"
-
-}'
+--data-raw ''
 
 ```
 
@@ -91,15 +79,7 @@ Upon successful authentication, the server will respond with a JSON object conta
 
 ```json
 
-{
 
-"access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6ImpoaS1Nzg5MzQzIn0...",
-
-"token_type": "Bearer",
-
-"expires_at": "2025-07-09T18:14:44.000000Z"
-
-}
 
 ```
 
@@ -121,7 +101,7 @@ Value
 
 Authorization
 
-Bearer {your_access_token}
+Bearer 
 
 Accept
 

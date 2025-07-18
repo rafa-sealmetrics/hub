@@ -3,7 +3,7 @@ title: Understanding Content Grouping in Sealmetrics
 slug: understanding-content-grouping-in-sealmetrics
 sidebar_label: Understanding Content Grouping in Sealmetrics
 ---
-[Skip to main content](#main-content)![Image](understanding-content-grouping-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)Content Grouping is a powerful feature in Sealmetrics that allows you to organize your page views into logical groups, enabling you to analyze related pages as a single unit. This feature helps you understand the performance of content categories rather than individual pages.
 
@@ -85,7 +85,7 @@ Generated Code Example:
 
 
 
-![Image](understanding-content-grouping-in-sealmetrics/content-grouping.png)
+![Image](/img/content-grouping.png)
 
 
 

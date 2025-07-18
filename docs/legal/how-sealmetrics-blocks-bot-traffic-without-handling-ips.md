@@ -3,7 +3,7 @@ title: How SealMetrics Blocks Bot Traffic Without Handling IPs
 slug: how-sealmetrics-blocks-bot-traffic-without-handling-ips
 sidebar_label: How SealMetrics Blocks Bot Traffic Without Handling IPs
 ---
-[Skip to main content](#main-content)![Image](how-sealmetrics-blocks-bot-traffic-without-handling-ips/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Legal](https://help.sealmetrics.com/en/collections/10013738-legal)At SealMetrics, we take user privacy and compliance very seriously. One key area where this is evident is managing and blocking bot traffic without touching IP addresses. Here, we explain how this process works and why we choose this approach.
 

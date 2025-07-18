@@ -4,7 +4,7 @@ slug: what-is-gtm-msrappspotcom-and-how-to-prevent-it-from-triggering-tags-in-gt
 sidebar_label: What is gtm-msr.appspot.com and How to Prevent It from Triggering Tags
   in GTM
 ---
-[Skip to main content](#main-content)![Image](what-is-gtm-msrappspotcom-and-how-to-prevent-it-from-triggering-tags-in-gtm/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)
 

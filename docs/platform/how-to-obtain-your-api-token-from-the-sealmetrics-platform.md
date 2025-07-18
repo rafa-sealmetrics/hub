@@ -3,13 +3,13 @@ title: How to Obtain Your API Token from the Sealmetrics Platform
 slug: how-to-obtain-your-api-token-from-the-sealmetrics-platform
 sidebar_label: How to Obtain Your API Token from the Sealmetrics Platform
 ---
-[Skip to main content](#main-content)![Image](how-to-obtain-your-api-token-from-the-sealmetrics-platform/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)API tokens are essential for integrating Sealmetrics with your custom applications, allowing secure and authenticated access to your analytics data. This guide will walk you through the process of obtaining your API token from your Sealmetrics dashboard.
 
 
 
-![Image](how-to-obtain-your-api-token-from-the-sealmetrics-platform/Seal-Metrics-04-07-2025_11_40_AM.png)
+![Image](/img/Seal-Metrics-04-07-2025_11_40_AM.png)
 
 
 

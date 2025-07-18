@@ -3,7 +3,7 @@ title: Roles Management
 slug: roles-management
 sidebar_label: Roles Management
 ---
-[Skip to main content](#main-content)![Image](roles-management/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)You can work with two different roles in Sealmetrics:
 
@@ -47,7 +47,7 @@ Grant access to some corporate IPs.
 
 [Grant access to some corporate IPs](https://help.sealmetrics.com/en/articles/10222135-access-restricted-to-authorized-ips)
 
-![Image](roles-management/Seal-Metrics-12-02-2024_03_16_PM.png)
+![Image](/img/Seal-Metrics-12-02-2024_03_16_PM.png)
 
 
 

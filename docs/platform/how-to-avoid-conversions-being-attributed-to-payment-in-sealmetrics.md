@@ -4,7 +4,7 @@ slug: how-to-avoid-conversions-being-attributed-to-payment-in-sealmetrics
 sidebar_label: "How to Avoid Conversions Being Attributed to \u201CPayment\u201D in\
   \ Sealmetrics"
 ---
-[Skip to main content](#main-content)![Image](how-to-avoid-conversions-being-attributed-to-payment-in-sealmetrics/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Platform](https://help.sealmetrics.com/en/collections/10013736-platform)When users complete a purchase on your website and are redirected to apayment gateway(like Stripe, PayPal, Redsys, etc.), they temporarily leave your site. When they return to yourthank you page, Sealmetrics detects this as a new session.
 
@@ -98,13 +98,13 @@ They’re redirected to /thank-you
 
 How to fix it:
 
-![Image](how-to-avoid-conversions-being-attributed-to-payment-in-sealmetrics/Seal-Metrics-04-25-2025_04_15_PM28129.png)
+![Image](/img/Seal-Metrics-04-25-2025_04_15_PM28129.png)
 
 
 
 
 
-![Image](how-to-avoid-conversions-being-attributed-to-payment-in-sealmetrics/Seal-Metrics-04-25-2025_04_16_PM28129.png)
+![Image](/img/Seal-Metrics-04-25-2025_04_16_PM28129.png)
 
 
 

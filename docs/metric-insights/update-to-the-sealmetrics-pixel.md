@@ -3,7 +3,7 @@ title: Update to the SealMetrics Pixel
 slug: update-to-the-sealmetrics-pixel
 sidebar_label: Update to the SealMetrics Pixel
 ---
-[Skip to main content](#main-content)![Image](update-to-the-sealmetrics-pixel/a37799c64a3031dd8bee1ad2404decf7.png)
+[Skip to main content](#main-content)![Image](/img/a37799c64a3031dd8bee1ad2404decf7.png)
 
 [Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[Academy](https://sealmetrics.com/privacy-marketing-academy/)[Partners](https://sealmetrics.com/partners/)[All Collections](/en/)[Metric Insights](https://help.sealmetrics.com/en/collections/10013737-metric-insights)We’re excited to announce a significant update to the SealMetrics pixel, designed to improve functionality and give users more flexibility in tracking events. This article outlines the differences between the old and new pixels, explains why you should update, and provides detailed implementation examples.
 
