@@ -131,7 +131,7 @@ BigQuery Integration: Analyze your properties alongside other data in Google Big
 
 If you'd like to enjoy this feature, let us know by writing an email to[email protected]
 
-[[email protected]](/cdn-cgi/l/email-protection#3a525f5656557a495f5b56575f4e4853594914595557)
+[[email protected]](/cdn-cgi/l/email-protection#93fbf6fffffcd3e0f6f2fffef6e7e1faf0e0bdf0fcfe)
 
 By effectively utilizing event properties, you can transform Sealmetrics from a simple analytics tool into a powerful business intelligence platform tailored to your specific needs, all while maintaining a consentless approach to data collection.
 
